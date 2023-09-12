@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding-top: 0;
+}
+.c{
+    width: 99%;
+    /* padding: 10px; */
+    /* background-color: crimson; */
+    border: 5px solid darkred;
+
+}
+header h1{
+    background-color: cadetblue;
+    color: whitesmoke;
+    height: 100px;
+    text-align: center;
+    padding-top: 30px;
+    border: 5px solid darkgray;
+    border-radius: 10px;
+    margin-top: 0%;
+}
+nav h1{
+    background-color: rgb(96, 86, 86);
+    color: white;
+    height: 80px;
+    text-align: center;
+    padding-top: 30px;
+    border: 5px solid rgb(212, 206, 206);
+    border-radius: 10px;
+    margin-top: 0.2%;  
+}
+.sec{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.aside{
+    width: 80%;
+    height: 400px;
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+}
+.article{
+    width: 25%;
+    height: 450px;
+    background-color: rgb(113, 32, 17);
+    color: white;
+    text-align: center;
+    border: 5px solid darkseagreen;
+    border-radius: 5px;
+}
+.div_1 h1{
+    width: 99.2%;
+    height: 120px;
+    background-color: rgb(149, 149, 158);
+    padding-top:100px;
+    border: 5px solid darkcyan;
+    border-radius: 5px;
+}
+.div_2 h1{
+    width: 99.2%;
+    height: 120px;
+    background-color: rgb(102, 80, 55);
+    padding-top: 100px;
+    border: 5px solid darkkhaki;
+    border-radius: 5px;
+}
+h4{
+    padding-top: 200px;
+}
+.about h1{
+    background-color: darkolivegreen;
+    height: 80px;
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 40px;
+    border: 5px solid darkslateblue;
+    border-radius: 5px;
+    margin-top: 60px;
+}
+footer{
+    background-color: lightskyblue;
+    height: 80px;
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 40px;
+    border: 5px solid rgb(86, 4, 27);
+    border-radius: 5px;
+}
